@@ -8,7 +8,7 @@
 
 ### Do you want to know how to start with mod stuff?
 
-Check [this guide](https://github.com/StevensND/ghidra-port-mods-guide) that I made
+Check [this guide](https://github.com/StevensND/ghidra-port-mods-guide) that I made as well as the [Ghidra-Switch-Loader extension](https://github.com/StevensND/Ghidra-Switch-Loader) that you might need.
 
 ### Socials
 
